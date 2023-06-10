@@ -1,0 +1,12 @@
+{
+    "input_variables": [
+        "reason",
+        "foo"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "I am learning langchain because {reason}.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
